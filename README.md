@@ -1,2 +1,2 @@
 # Python-CursoEmVideo
-Tudo o que eu fiz do Curso em Vídeo de Python 
+Tudo o que eu fiz mo Curso em Vídeo de Python 
